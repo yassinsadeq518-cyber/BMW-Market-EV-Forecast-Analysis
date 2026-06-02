@@ -14,4 +14,4 @@ An advanced business intelligence project analyzing BMW's historical sales perfo
 * **Macroeconomic Integration:** Correlation analysis between market sales and external economic factors.
 
 ## 📷 Dashboard Preview
-[Dashboard Preview](dashboard.png)
+[Dashboard Preview] (dashboard.png)
